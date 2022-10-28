@@ -1,0 +1,13 @@
+@media screen and (max-width: 800px){
+    .block_A{
+        height: 15%;
+    }
+    .block_B{
+        width: 100%;
+        height: 65%;
+    }
+    .block_F{
+        width: 100%;
+        height: 15%;
+    }
+}
